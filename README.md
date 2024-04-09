@@ -1,2 +1,2 @@
 # TypeScript
-Curso de Udemy TypeScript - Fernando Herrera
+Curso de Udemy TypeScript: Tu completa guía y manual de mano - Fernando Herrera
